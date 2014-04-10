@@ -4,6 +4,10 @@
 (setq mac-command-modifier 'meta)	
 
 
+;; Theme / Colors
+(load "~/.emacs.d/color-themes/color-theme-vibrant-ink.el")
+(color-theme-vibrant-ink)
+
 ;; Emacs Pills
 ;; https://bitbucket.org/arco_group/emacs-pills
 
