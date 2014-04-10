@@ -1,0 +1,19 @@
+#contributor : <David.Villa@uclm.es>
+#name: pyunit file
+#key: unit
+#expand-env: ((yas/indent-line 'fixed) (yas/wrap-around-region 'nil))
+# --
+# -*- mode:python; coding:utf-8; tab-width:4 -*-
+
+from unittest import TestCase
+
+
+class Test${0}(TestCase):
+    def setUp(self):
+        pass
+
+    def tearDown(self):
+        pass
+
+    def test_${1}(self):
+        pass

@@ -1,0 +1,145 @@
+emacs-pills (0.20140305-1) unstable; urgency=low
+
+  * New release
+  * removing projectile pill due to performance issues
+
+ -- David Villa Alises <David.Villa@gmail.com>  Wed, 05 Mar 2014 13:51:22 +0100
+
+emacs-pills (0.20131209-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Mon, 09 Dec 2013 14:50:13 +0100
+
+emacs-pills (0.20131129.1-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Fri, 29 Nov 2013 14:54:37 +0100
+
+emacs-pills (0.20131129-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Fri, 29 Nov 2013 12:52:46 +0100
+
+emacs-pills (0.20131127-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Wed, 27 Nov 2013 20:18:02 +0100
+
+emacs-pills (0.20130703-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Wed, 03 Jul 2013 19:45:34 +0200
+
+emacs-pills (0.20130619-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Wed, 19 Jun 2013 18:09:58 +0200
+
+emacs-pills (0.20130517-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Fri, 17 May 2013 14:25:00 +0200
+
+emacs-pills (0.20130415.1-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Mon, 15 Apr 2013 21:07:55 +0200
+
+emacs-pills (0.20130415-1) unstable; urgency=low
+
+  * Moved to /usr/share/emacs-pills. Redirection from
+    /usr/share/arco/emacs (with warning) was added.
+
+ -- David Villa Alises <David.Villa@gmail.com>  Mon, 15 Apr 2013 10:31:33 +0200
+
+emacs-pills (0.20130411-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Thu, 11 Apr 2013 16:55:27 +0200
+
+emacs-pills (0.20130410-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Wed, 10 Apr 2013 12:32:20 +0200
+
+emacs-pills (0.20130408-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Mon, 08 Apr 2013 17:49:03 +0200
+
+emacs-pills (0.20130327-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Wed, 27 Mar 2013 19:39:32 +0100
+
+emacs-pills (0.20130314-2) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Wed, 27 Mar 2013 15:13:53 +0100
+
+emacs-pills (0.20130314-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Thu, 14 Mar 2013 18:57:30 +0100
+
+emacs-pills (0.20120904-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Tue, 04 Sep 2012 18:03:25 +0200
+
+emacs-pills (0.20120620-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Wed, 20 Jun 2012 17:58:47 +0200
+
+emacs-pills (0.20120619-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Tue, 19 Jun 2012 18:53:48 +0200
+
+emacs-pills (0.20120523-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Wed, 23 May 2012 19:38:34 +0200
+
+emacs-pills (0.20120403-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Tue, 03 Apr 2012 18:03:48 +0200
+
+emacs-pills (0.20120326-1) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Mon, 26 Mar 2012 19:49:00 +0200
+
+emacs-pills (0.20120214-2) unstable; urgency=low
+
+  * New release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Mon, 26 Mar 2012 19:20:29 +0200
+
+emacs-pills (0.20120214-1) unstable; urgency=low
+
+  * Initial release
+
+ -- David Villa Alises <David.Villa@gmail.com>  Tue, 14 Feb 2012 22:04:23 +0100
