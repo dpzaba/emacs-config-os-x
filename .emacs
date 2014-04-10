@@ -1,7 +1,6 @@
-
 ;; Specific for Mac OS X
 (setq mac-option-modifier 'super)
-(setq mac-command-modifier 'meta)	
+(setq mac-command-modifier 'meta)
 
 
 ;; Theme / Colors
@@ -11,7 +10,6 @@
 ;; Emacs Pills
 ;; https://bitbucket.org/arco_group/emacs-pills
 (load "~/.emacs.d/emacs-pills/config/global-zoom.cfg.el")
-(load "~/.emacs.d/emacs-pills/config/hl.cfg.el")
 (load "~/.emacs.d/emacs-pills/config/minimal.cfg.el")
 (load "~/.emacs.d/emacs-pills/config/move-line-or-region.cfg.el")
 (load "~/.emacs.d/emacs-pills/config/strip.cfg.el")
