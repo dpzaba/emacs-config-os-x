@@ -1,4 +1,4 @@
 #! /bin/bash
 
 cp ./.emacs ~
-cp -r ./.emacs.d/ ~
+cp -R ./.emacs.d/ ~
