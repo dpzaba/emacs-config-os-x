@@ -26,3 +26,8 @@
 ;; https://snarfed.org/gnu_emacs_backup_files
 ;; http://stackoverflow.com/a/18330742
 ;; http://www.emacswiki.org/emacs/BackupDirectory
+
+;; Reload files (auto revert)
+;; C-x C-v RET
+;; (global-auto-revert-mode t)
+;; http://ubuntuforums.org/showthread.php?t=1735237
