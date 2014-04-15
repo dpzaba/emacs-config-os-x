@@ -20,3 +20,7 @@
 ;; https://github.com/bbatsov/projectile
 
 ;; https://github.com/grundprinzip/sublemacspro
+
+;; Backups and temporal files
+;; http://ergoemacs.org/emacs/emacs_set_backup_into_a_directory.html
+;; https://snarfed.org/gnu_emacs_backup_files
