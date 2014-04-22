@@ -1,0 +1,3 @@
+[submodule ".emacs.d/enhanced-ruby-mode"]
+	path = .emacs.d/enhanced-ruby-mode
+	url = https://github.com/zenspider/enhanced-ruby-mode.git

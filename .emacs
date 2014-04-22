@@ -33,6 +33,7 @@
 ;; http://ubuntuforums.org/showthread.php?t=1735237
 
 ;; Better ruby-mode
+;; Git project => submodule
 ;; https://github.com/zenspider/enhanced-ruby-mode.git
 ;; must be added after any path containing old ruby-mode
 (add-to-list 'load-path "~/.emacs.d/enhanced-ruby-mode")
