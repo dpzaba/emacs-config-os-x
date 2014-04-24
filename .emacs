@@ -1,14 +1,37 @@
 ;; Specific for Mac OS X
 (setq mac-option-modifier 'super)
 (setq mac-command-modifier 'meta)
+;; Use command as the meta key; option key as super
+;; (setq ns-command-modifier 'meta)
+;; (setq ns-option-modifier 'super)
 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Basic
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;; lines number
+(linum-mode 1)
+;; tabs
+(setq c-basic-indent 2)
+(setq tab-width 2)
+(setq indent-tabs-mode nil)
+(setq-default indent-tabs-mode nil)
+;; temporal files
+(setq backup-directory-alist '(("." . "~/.emacs.d/emacs-backups")))
+;; Trash can support
+(setq delete-by-moving-to-trash t)
+;; no scroll bars
+(toggle-scroll-bar -1)
 
 ;; Theme / Colors
 (load "~/.emacs.d/color-themes/color-theme-vibrant-ink.el")
 (color-theme-vibrant-ink)
 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Emacs Pills
 ;; https://bitbucket.org/arco_group/emacs-pills
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
 (load "~/.emacs.d/emacs-pills/config/global-zoom.cfg.el")
 (load "~/.emacs.d/emacs-pills/config/minimal.cfg.el")
 (load "~/.emacs.d/emacs-pills/config/move-line-or-region.cfg.el")
