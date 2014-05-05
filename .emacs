@@ -67,5 +67,21 @@
 (autoload 'enh-ruby-mode "enh-ruby-mode" "Major mode for ruby files" t)
 (add-to-list 'auto-mode-alist '("\\.rb$" . enh-ruby-mode))
 (add-to-list 'interpreter-mode-alist '("ruby" . enh-ruby-mode))
+;; to keep ruby-mode indent
+;; 2nd tab will put back (to enhanced-ruby-mode)
+(setq enh-ruby-bounce-deep-indent -1)
 
 ;; http://crypt.codemancers.com/posts/2013-09-26-setting-up-emacs-as-development-environment-on-osx/
+
+;; CoffeeScript
+(add-to-list 'load-path "~/.emacs.d/coffee-mode")
+(require 'coffee-mode)
+(add-to-list 'auto-mode-alist '("\\.coffee$" . coffee-mode))
+(add-to-list 'auto-mode-alist '("Cakefile" . coffee-mode))
+
+(defun coffee-custom ()
+  "coffee-mode-hook"
+  ;; Emacs key binding
+  (define-key coffee-mode-map [(meta r)] 'coffee-compile-buffer))
+
+(add-hook 'coffee-mode-hook '(lambda () (coffee-custom)))
