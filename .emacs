@@ -12,7 +12,7 @@
 ;; no scroll bars
 (toggle-scroll-bar -1)
 ;; lines number
-(linum-mode t)
+(global-linum-mode 1)
 ;; tabs
 (setq c-basic-indent 2)
 (setq tab-width 2)
