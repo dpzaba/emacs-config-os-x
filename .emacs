@@ -1,3 +1,7 @@
+;; Remember:
+;; git submodule foreach git pull
+;; git pull --recurse-submodules
+
 ;; Specific for Mac OS X
 (setq mac-option-modifier 'super)
 (setq mac-command-modifier 'meta)
@@ -33,6 +37,7 @@
       )
 
 ;; Theme / Colors
+;; sudo apt-get install emacs-goodies-el
 (load "~/.emacs.d/color-themes/color-theme-vibrant-ink.el")
 (color-theme-vibrant-ink)
 
