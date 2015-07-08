@@ -121,7 +121,7 @@
 
 
 
-;; More liks
+;; More links
 
 ;; https://github.com/technomancy/better-defaults/
 
